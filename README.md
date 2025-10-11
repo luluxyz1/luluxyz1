@@ -3,6 +3,8 @@
 Bienvenue sur mon profil GitHub !  
 Actuellement étudiant en troisième année de Bachelor à l’ECE Paris, je me spécialise dans le développement web full-stack.
 
+
+
 ## 🚀 À propos de moi
 Développeur passionné, j’aime concevoir des applications modernes, intuitives et robustes.  
 J’ai une expérience pratique avec VueJS et Laravel, que je continue de maîtriser.
@@ -33,9 +35,7 @@ J’ai une expérience pratique avec VueJS et Laravel, que je continue de maîtr
 ## 📌 Projets épinglés
 Découvrez mes projets les plus représentatifs sur la page principale de mon profil ci-dessous.
 
-## 📊 Stats GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luluxyz1&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luluxyz1&show_icons=true&theme=dark)
 
 ## 👔 En recherche d’alternance !
 Actuellement ouvert à une alternance en développement web pour une durée d'un an, sur un rythme de 3 semaines entreprise / 2 semaines école, n’hésitez pas à me contacter pour toute opportunité ou collaboration !
