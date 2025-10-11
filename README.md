@@ -38,4 +38,4 @@ Découvrez mes projets les plus représentatifs sur la page principale de mon pr
 Actuellement ouvert à une alternance en développement web pour une durée d'un an, sur un rythme de 3 semaines entreprise / 2 semaines école, n’hésitez pas à me contacter pour toute opportunité ou collaboration !
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luluxyz1&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luluxyz1&layout=compact&theme=dark&hide_progress=true)
