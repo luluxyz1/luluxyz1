@@ -3,18 +3,16 @@
 Bienvenue sur mon profil GitHub !  
 Actuellement étudiant en troisième année de Bachelor à l’ECE Paris, je me spécialise dans le développement web full-stack.
 
-
-
 ## 🚀 À propos de moi
 Développeur passionné, j’aime concevoir des applications modernes, intuitives et robustes.  
-J’ai une expérience pratique avec VueJS et Laravel, que je continue de maîtriser.
+J’ai une expérience pratique avec VueJS, Laravel, Symfony et Docker, que je continue de maîtriser.
 
 ## 🛠 Ma stack principale
 - **Langages :** HTML, CSS, JavaScript, PHP  
-- **Front-end :** VueJS (usage en cours d’apprentissage), PrimeVue, shadcn/vue  
-- **Back-end :** Laravel (usage en cours d’apprentissage)  
+- **Front-end :** Angular, VueJS (usages en cours d’apprentissage)
+- **Back-end :** Laravel, Symfony (usages en cours d’apprentissage)  
 - **Bases de données :** MySQL  
-- **Outils :** VSCode, GitHub, Postman
+- **Outils :** VSCode, GitHub, Postman, Docker (en cours d’apprentissage)
 
 ## 🔭 Je travaille actuellement sur  
 - Portfolios variés pour différents clients  
@@ -23,19 +21,16 @@ J’ai une expérience pratique avec VueJS et Laravel, que je continue de maîtr
 ## 🌱 J’apprends actuellement  
 - Angular, Node.js  
 - Docker  
-- Symfony, fonctionnalités avancées Laravel
+- Symfony, fonctionnalités avancées Laravel  
 - TypeScript 
 
 ## 🗂️ Principaux outils  
-- VSCode, GitHub, Postman
+- VSCode, GitHub, Postman, Docker
 
 ## 📌 Projets épinglés
 Découvrez mes projets les plus représentatifs sur la page principale de mon profil ci-dessous.
 
-
-
 ## 👔 En recherche d’alternance !
 Actuellement ouvert à une alternance en développement web pour une durée d'un an, sur un rythme de 3 semaines entreprise / 2 semaines école, n’hésitez pas à me contacter pour toute opportunité ou collaboration !
 
-##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luluxyz1&layout=compact&theme=dark&hide_progress=true)
