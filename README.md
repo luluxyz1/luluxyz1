@@ -19,9 +19,6 @@ J’ai une expérience pratique avec VueJS et Laravel, que je continue de maîtr
 ## 🔭 Je travaille actuellement sur  
 - Portfolios variés pour différents clients  
 - Gestionnaire de bibliothèque de jeux-vidéo  
-- Sites e-commerce (Laravel & VueJS)  
-- Web scraping et comparateurs de prix  
-- UI design interactif avec PrimeVue et shadcn/vue
 
 ## 🌱 J’apprends actuellement  
 - Angular, Node.js  
