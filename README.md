@@ -13,7 +13,7 @@ Développeur passionné, j’aime concevoir des applications modernes, intuitive
 - **Bases de données :** MySQL, MongoDB 
 - **Outils :** VSCode, GitHub, Postman, Docker 
 
-##❗À la recherche d'un stage de 4 à 6 mois
+## ❗À la recherche d'un stage de 4 à 6 mois
 Je suis actuellement à la recherche d’un stage en développement informatique d’une durée de 4 à 6 mois. 
 Basé à Paris, je suis disponible pour des opportunités partout en France.
 
