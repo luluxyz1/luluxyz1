@@ -4,14 +4,13 @@ Bienvenue sur mon profil GitHub !
 Actuellement étudiant en troisième année de Bachelor Concepteur/Développeur d'Applications à l’ECE Paris, je me spécialise dans le développement web full-stack.
 
 ## 🚀 À propos de moi
-Développeur passionné, j’aime concevoir des applications modernes, intuitives et robustes.  
+Développeur passionné, j’aime concevoir des applications web & mobiles modernes.  
 
 ## 🛠 Mes compétences techniques
-- **Langages :** HTML, CSS, JavaScript, PHP, Java, Python, C, C++ 
+- **Langages :** HTML, CSS, JavaScript, Java, Python, PHP, C, C++ 
 - **Front-end :** React, VueJS
-- **Back-end :** Express, Laravel, Symfony  
+- **Back-end :** NodeJS, Express, Laravel, Symfony  
 - **Bases de données :** MySQL, MongoDB 
-- **Outils :** VSCode, GitHub, Postman, Docker 
 
 ## ❗À la recherche d'un stage de 4 à 6 mois
 Je suis actuellement à la recherche d’un stage en développement informatique d’une durée de 4 à 6 mois. 
