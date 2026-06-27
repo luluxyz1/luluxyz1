@@ -7,20 +7,20 @@ Actuellement étudiant en troisième année de Bachelor Concepteur/Développeur 
 Développeur passionné, j’aime concevoir des applications web & mobiles modernes.  
 
 ## 🛠 Mes compétences techniques
-- **Langages :** HTML, CSS, JavaScript, Java, Python, PHP, C, C++ 
-- **Front-end :** React, VueJS
-- **Back-end :** NodeJS, Express, Laravel, Symfony  
+- **Langages :** HTML, CSS, JavaScript, PHP, Python, C
+- **Front-end :** Angular, React
+- **Back-end :** NodeJS, Symfony, Express
 - **Bases de données :** MySQL, MongoDB 
-
-## ❗À la recherche d'un stage de 4 à 6 mois
-Je suis actuellement à la recherche d’un stage en développement informatique d’une durée de 4 à 6 mois. 
-Basé à Paris, je suis disponible pour des opportunités partout en France.
+- **Outils :** Powershell, Bash, Git, Docker, AWS
+- **Systèmes d'exploitation :** Windows, Linux Ubuntu
 
 ## 🔭 Je travaille actuellement sur  
-- Gestionnaire de bibliothèque de jeux-vidéo (projet scolaire)
+- Gestionnaire de bibliothèque de jeux-vidéo
 - Application mobile de randonnée interactive intégrant des tracés personnalisés et des points d’intérêt touristiques avec histoires locales.
 
-## 🗂️ Principaux outils  
-- VSCode, GitHub, Postman, Docker
+## ❗À la recherche d'une alternance pour une durée de 3 ans
+Je suis actuellement à la recherche d’une alternance dans le DevOps pour une durée de 3 ans, dans le cadre d'une formation en Ingénieur en Développement à l'ECE Paris.
+Basé à La Verrière (Yvelines), je suis disponible pour des opportunités partout en France, principalement en Île-de-France.
+
 
 
